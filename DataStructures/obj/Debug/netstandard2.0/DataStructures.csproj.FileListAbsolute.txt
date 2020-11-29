@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\DataStructures\DataStructure\DataStructures\bin\Debug\netstandard2.0\DataStructures.deps.json
+C:\Users\Alex\Desktop\DataStructures\DataStructure\DataStructures\bin\Debug\netstandard2.0\DataStructures.dll
+C:\Users\Alex\Desktop\DataStructures\DataStructure\DataStructures\bin\Debug\netstandard2.0\DataStructures.pdb
+C:\Users\Alex\Desktop\DataStructures\DataStructure\DataStructures\obj\Debug\netstandard2.0\DataStructures.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\DataStructures\DataStructure\DataStructures\obj\Debug\netstandard2.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\DataStructures\DataStructure\DataStructures\obj\Debug\netstandard2.0\DataStructures.AssemblyInfo.cs
+C:\Users\Alex\Desktop\DataStructures\DataStructure\DataStructures\obj\Debug\netstandard2.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\DataStructures\DataStructure\DataStructures\obj\Debug\netstandard2.0\DataStructures.dll
+C:\Users\Alex\Desktop\DataStructures\DataStructure\DataStructures\obj\Debug\netstandard2.0\DataStructures.pdb

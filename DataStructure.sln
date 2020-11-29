@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{D38969F8-FEBC-4615-B417-C034DE196921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestDataStructures", "NUnitTestDataStructures\NUnitTestDataStructures.csproj", "{E73CFAF3-7076-4366-9AA3-7A52A078CA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38969F8-FEBC-4615-B417-C034DE196921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38969F8-FEBC-4615-B417-C034DE196921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38969F8-FEBC-4615-B417-C034DE196921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38969F8-FEBC-4615-B417-C034DE196921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73CFAF3-7076-4366-9AA3-7A52A078CA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73CFAF3-7076-4366-9AA3-7A52A078CA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73CFAF3-7076-4366-9AA3-7A52A078CA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73CFAF3-7076-4366-9AA3-7A52A078CA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD865227-A221-4FE4-BC85-C9A35696B82F}
+	EndGlobalSection
+EndGlobal
