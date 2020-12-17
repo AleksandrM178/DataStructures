@@ -221,19 +221,34 @@ namespace DataStructures
         }
         public void RemoveAllByValue(int value)
         {
-            bool flag = false;
-            for (int i = 0; i < Length; i++)
+            if (_root == null)
             {
-                if (this[i] == value)
-                {
-                    RemoveByIndex(i);                  
-                    flag = true;
-                }
+                throw new NullReferenceException("List length can't be null");
             }
-            if (flag == false)
+
+            Node prev = null;
+            Node curr = _root;
+            while (curr != null)
             {
-                throw new Exception();
-            }              
+                if (curr.Value == value)
+                {
+                    if (prev == null)
+                    {
+                        _root = curr.Next;
+                        Length--;
+                    }
+                    else
+                    {
+                        prev.Next = curr.Next;
+                        Length--;
+                    }
+                }
+                else
+                {
+                    prev = curr;
+                }
+                curr = curr.Next;
+            }
         }
         public int IndexOfElement(int element)
         {
